@@ -11,3 +11,24 @@ Fase atual: Começar o projeto.
 Objetivo do dia: Iniciar todos htmls com o básico necessário e criar uma folha de estilo para cada html.
 
 Resumo do dia: 
+    Criei e inicializei todos os htmls com o modelo:
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <title>Projeto *</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="_css/Projeto*.css">    
+    </head>
+    <body>
+        <header>
+        
+        </header>
+
+    </body>
+    </html>
+    
+    Criei todos os arquivos css para cada arquivo html.
+    Adicionei a pasta "_css" e o diário do projeto ou repositório local.
+    
+Dia 2:
